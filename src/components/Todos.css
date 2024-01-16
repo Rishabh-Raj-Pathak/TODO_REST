@@ -1,0 +1,17 @@
+.Main{
+    display: flex;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* margin: auto; */
+    border-radius: 40px;
+    padding: 20px;
+    max-width: 300px;
+    margin: 10px;
+    /* flex-direction: row; */
+
+}
+
+.outer{
+    display: flex;
+    padding: 20px;
+}
